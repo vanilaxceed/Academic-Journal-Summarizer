@@ -1,0 +1,6 @@
+{
+  "name": "Academic Journal Summarizer",
+  "description": "Ekstraktor dan peringkas jurnal akademik cerdas yang mengekstrak Metode, Hasil, dan Kesimpulan ke dalam kartu informasi minimalis berbasis Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
